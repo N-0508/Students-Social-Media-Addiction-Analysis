@@ -105,6 +105,3 @@ The goal is to uncover meaningful insights and patterns that indicate **social m
 - Matplotlib  
 - Seaborn  
 
----
-
-## 📂 Project Structure
